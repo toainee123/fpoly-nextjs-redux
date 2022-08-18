@@ -1,4 +1,12 @@
 {
-    "products": [],
-    "users": []
+  "products": [
+    {
+      "name": "toaideptry",
+      "price": "123",
+      "img": "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-midnight-2-600x600.jpg",
+      "desc": "heloo oshoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "id": 1
+    }
+  ],
+  "users": []
 }
